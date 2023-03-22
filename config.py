@@ -1,1 +1,2 @@
-OPENAI_API_KEY="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"
+#access api key by singup in openai.
+OPENAI_API_KEY=""
